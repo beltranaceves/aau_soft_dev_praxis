@@ -129,7 +129,12 @@ MARKER_ARGS=()
 
 if [[ -n "$OUTPUT_DIR" ]]; then
     mkdir -p "$OUTPUT_DIR"
-    MARKER_ARGS+=(--output_dir "$(cd "$OUTPUT_DIR" && pwd)")
+    # Resolve to absolute path without cd-ing into it (avoids permission issues on some systems)
+    case "$OUTPUT_DIR" in
+        /*) ABS_OUTPUT_DIR="$OUTPUT_DIR" ;;
+        *)  ABS_OUTPUT_DIR="$PWD/$OUTPUT_DIR" ;;
+    esac
+    MARKER_ARGS+=(--output_dir "$ABS_OUTPUT_DIR")
 fi
 
 if $SKIP_EXISTING; then
