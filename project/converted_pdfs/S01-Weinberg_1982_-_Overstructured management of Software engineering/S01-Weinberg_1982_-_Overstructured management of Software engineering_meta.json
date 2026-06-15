@@ -1,0 +1,535 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OVERSTRUCTURED MANAGEMENT OF SOFTWARE ENGINEERING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.5390625,
+          75.41015625
+        ],
+        [
+          444.72601318359375,
+          75.41015625
+        ],
+        [
+          444.72601318359375,
+          84.3438720703125
+        ],
+        [
+          168.5390625,
+          84.3438720703125
+        ]
+      ]
+    },
+    {
+      "title": "Weinberg and Weinberg",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          247.6800079345703,
+          142.69921875
+        ],
+        [
+          367.8240051269531,
+          142.69921875
+        ],
+        [
+          367.8240051269531,
+          152.98388671875
+        ],
+        [
+          247.6800079345703,
+          152.98388671875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.984375,
+          162.80859375
+        ],
+        [
+          103.46399688720703,
+          162.80859375
+        ],
+        [
+          103.46399688720703,
+          172.90386962890625
+        ],
+        [
+          54.984375,
+          172.90386962890625
+        ]
+      ]
+    },
+    {
+      "title": "The Problem",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.58203125,
+          274.5703125
+        ],
+        [
+          120.75299835205078,
+          274.5703125
+        ],
+        [
+          120.75299835205078,
+          283.7839050292969
+        ],
+        [
+          55.58203125,
+          283.7839050292969
+        ]
+      ]
+    },
+    {
+      "title": "The Approach",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          314.96484375,
+          277.27734375
+        ],
+        [
+          386.5679931640625,
+          277.27734375
+        ],
+        [
+          386.5679931640625,
+          286.6639099121094
+        ],
+        [
+          314.96484375,
+          286.6639099121094
+        ]
+      ]
+    },
+    {
+      "title": "The DEAL Model",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.076171875,
+          496.93359375
+        ],
+        [
+          138.34799194335938,
+          496.93359375
+        ],
+        [
+          138.34799194335938,
+          507.4129638671875
+        ],
+        [
+          57.076171875,
+          507.4129638671875
+        ]
+      ]
+    },
+    {
+      "title": "Sequence",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.666015625,
+          345.33984375
+        ],
+        [
+          364.21917724609375,
+          345.33984375
+        ],
+        [
+          364.21917724609375,
+          353.84765625
+        ],
+        [
+          314.666015625,
+          353.84765625
+        ]
+      ]
+    },
+    {
+      "title": "Recursion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.7578125,
+          353.07421875
+        ],
+        [
+          371.3796081542969,
+          353.07421875
+        ],
+        [
+          371.3796081542969,
+          362.45294189453125
+        ],
+        [
+          316.7578125,
+          362.45294189453125
+        ]
+      ]
+    },
+    {
+      "title": "What is To Be Done?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.77734375,
+          204.57421875
+        ],
+        [
+          166.79200744628906,
+          204.57421875
+        ],
+        [
+          166.79200744628906,
+          213.50921630859375
+        ],
+        [
+          56.77734375,
+          213.50921630859375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.056640625,
+          376.6640625
+        ],
+        [
+          376.62298583984375,
+          376.6640625
+        ],
+        [
+          376.62298583984375,
+          384.6291809082031
+        ],
+        [
+          317.056640625,
+          384.6291809082031
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S01-Weinberg_1982_-_Overstructured management of Software engineering"
+}

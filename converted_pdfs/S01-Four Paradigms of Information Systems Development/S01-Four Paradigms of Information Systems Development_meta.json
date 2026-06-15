@@ -1,0 +1,1871 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Four Paradigms of \nInformation Systems \nDevelopment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.125,
+          49.5087890625
+        ],
+        [
+          441.2093811035156,
+          49.5087890625
+        ],
+        [
+          441.2093811035156,
+          156.0849609375
+        ],
+        [
+          118.125,
+          156.0849609375
+        ]
+      ]
+    },
+    {
+      "title": "Rudy Hirschheim and Heinz K. Klein",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.0,
+          227.8916015625
+        ],
+        [
+          214.70237731933594,
+          227.8916015625
+        ],
+        [
+          214.70237731933594,
+          238.063720703125
+        ],
+        [
+          27.0,
+          238.063720703125
+        ]
+      ]
+    },
+    {
+      "title": "TWO EXAMPLES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          272.53125,
+          561.2255859375
+        ],
+        [
+          348.46875,
+          561.2255859375
+        ],
+        [
+          348.46875,
+          570.0164489746094
+        ],
+        [
+          272.53125,
+          570.0164489746094
+        ]
+      ]
+    },
+    {
+      "title": "FOUR PARADIGMS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          25.59375,
+          422.1474609375
+        ],
+        [
+          112.78125,
+          422.1474609375
+        ],
+        [
+          112.78125,
+          430.8164367675781
+        ],
+        [
+          25.59375,
+          430.8164367675781
+        ]
+      ]
+    },
+    {
+      "title": "STORY I: THE ANALYST AS SYSTEMS EXPERT Interpretation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          26.4375,
+          52.154296875
+        ],
+        [
+          320.70806884765625,
+          52.154296875
+        ],
+        [
+          320.70806884765625,
+          62.41644287109375
+        ],
+        [
+          26.4375,
+          62.41644287109375
+        ]
+      ]
+    },
+    {
+      "title": "Systems Development as Instrumental Reasoning \nThis story has progressed considerably over the years \n[24, 87, 88, 941, and has been the source of many suc-\ncessful systems. The story suggests that all information \nsystems are designed to contribute to specific ends. The \nrole of management is that of the leadership group in \nthe organization that knows or develops the ends \nwhich are then translated and specified in terms of \nsystems objectives. The usual assumption is that the \nspecification is as objective as possible. The resolution \nof polemical issues associated with objectives is seen as \nthe prerogative of management and not normally \nwithin the domain of the systems developer. As a re-\nsult, the ends can be viewed as being articulated, \nshared, and objective. Of course, there are many kinds \nof conflicts with which the system developer does deal, \nbut the tools and methods used typically concern only \nthe choice of means to prespecified ends, not the sub-\nstance of the ultimate ends of a system.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          25.3125,
+          69.2864990234375
+        ],
+        [
+          256.17840576171875,
+          69.2864990234375
+        ],
+        [
+          256.17840576171875,
+          271.39959716796875
+        ],
+        [
+          25.3125,
+          271.39959716796875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          271.96875,
+          53.2880859375
+        ],
+        [
+          331.03125,
+          53.2880859375
+        ],
+        [
+          331.03125,
+          61.6025390625
+        ],
+        [
+          271.96875,
+          61.6025390625
+        ]
+      ]
+    },
+    {
+      "title": "Analysis and Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          273.1199951171875,
+          527.9677734375
+        ],
+        [
+          374.34375,
+          527.9677734375
+        ],
+        [
+          374.34375,
+          537.6164398193359
+        ],
+        [
+          273.1199951171875,
+          537.6164398193359
+        ]
+      ]
+    },
+    {
+      "title": "STORY II: THE ANALYST AS FACILITATOR",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          322.3125,
+          338.2470703125
+        ],
+        [
+          523.6875,
+          338.2470703125
+        ],
+        [
+          523.6875,
+          347.5364685058594
+        ],
+        [
+          322.3125,
+          347.5364685058594
+        ]
+      ]
+    },
+    {
+      "title": "Systems Development as Sense Making",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          323.9999084472656,
+          354.1201171875
+        ],
+        [
+          486.0,
+          354.1201171875
+        ],
+        [
+          486.0,
+          362.6564636230469
+        ],
+        [
+          323.9999084472656,
+          362.6564636230469
+        ]
+      ]
+    },
+    {
+      "title": "Interpretation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.53125,
+          413.0771484375
+        ],
+        [
+          96.46875,
+          413.0771484375
+        ],
+        [
+          96.46875,
+          421.3916015625
+        ],
+        [
+          38.53125,
+          421.3916015625
+        ]
+      ]
+    },
+    {
+      "title": "Analysis and Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          284.90625,
+          193.8779296875
+        ],
+        [
+          385.59375,
+          193.8779296875
+        ],
+        [
+          385.59375,
+          202.81646728515625
+        ],
+        [
+          284.90625,
+          202.81646728515625
+        ]
+      ]
+    },
+    {
+      "title": "STORY III: THE ANALYST AS LABOR PARTISAN",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          62.4375,
+          254.724609375
+        ],
+        [
+          288.5625,
+          254.724609375
+        ],
+        [
+          288.5625,
+          263.0564270019531
+        ],
+        [
+          62.4375,
+          263.0564270019531
+        ]
+      ]
+    },
+    {
+      "title": "Systems Development as Dialectic Materialism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          64.08001708984375,
+          270.9755859375
+        ],
+        [
+          257.0625,
+          270.9755859375
+        ],
+        [
+          257.0625,
+          279.2900390625
+        ],
+        [
+          64.08001708984375,
+          279.2900390625
+        ]
+      ]
+    },
+    {
+      "title": "Interpretation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          310.79998779296875,
+          367.7255859375
+        ],
+        [
+          368.4375,
+          367.7255859375
+        ],
+        [
+          368.4375,
+          377.05645751953125
+        ],
+        [
+          310.79998779296875,
+          377.05645751953125
+        ]
+      ]
+    },
+    {
+      "title": "Analysis and Discussion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.76000213623047,
+          218.0654296875
+        ],
+        [
+          141.46875,
+          218.0654296875
+        ],
+        [
+          141.46875,
+          226.576416015625
+        ],
+        [
+          41.76000213623047,
+          226.576416015625
+        ]
+      ]
+    },
+    {
+      "title": "STORY IV: THE ANALYST AS EMANCIPATOR \nOR SOCIAL THERAPIST",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          286.3125,
+          352.6083984375
+        ],
+        [
+          496.6875,
+          352.6083984375
+        ],
+        [
+          496.6875,
+          372.4964294433594
+        ],
+        [
+          286.3125,
+          372.4964294433594
+        ]
+      ]
+    },
+    {
+      "title": "Systems Development as Emancipation through \nRational Discourse",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          286.3125,
+          378.3076171875
+        ],
+        [
+          483.1875,
+          378.3076171875
+        ],
+        [
+          483.1875,
+          399.3764343261719
+        ],
+        [
+          286.3125,
+          399.3764343261719
+        ]
+      ]
+    },
+    {
+      "title": "Interpretation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          37.96875,
+          210.5068359375
+        ],
+        [
+          97.03125,
+          210.5068359375
+        ],
+        [
+          97.03125,
+          219.37640380859375
+        ],
+        [
+          37.96875,
+          219.37640380859375
+        ]
+      ]
+    },
+    {
+      "title": "Analysis and Discussion",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          284.34375,
+          76.341796875
+        ],
+        [
+          386.15625,
+          76.341796875
+        ],
+        [
+          386.15625,
+          86.41644287109375
+        ],
+        [
+          284.34375,
+          86.41644287109375
+        ]
+      ]
+    },
+    {
+      "title": "THE TWO EXAMPLES REVISITED",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          66.9375,
+          241.119140625
+        ],
+        [
+          219.9375,
+          241.119140625
+        ],
+        [
+          219.9375,
+          249.37640380859375
+        ],
+        [
+          66.9375,
+          249.37640380859375
+        ]
+      ]
+    },
+    {
+      "title": "Development Process Differences",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          310.78125,
+          56.3115234375
+        ],
+        [
+          449.71875,
+          56.3115234375
+        ],
+        [
+          449.71875,
+          64.81646728515625
+        ],
+        [
+          310.78125,
+          64.81646728515625
+        ]
+      ]
+    },
+    {
+      "title": "Developed System Differences",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          37.6875,
+          334.4677734375
+        ],
+        [
+          161.4375,
+          334.4677734375
+        ],
+        [
+          161.4375,
+          343.6964416503906
+        ],
+        [
+          37.6875,
+          343.6964416503906
+        ]
+      ]
+    },
+    {
+      "title": "TABLE II. The UTOPIA Project",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          248.90625,
+          51.0205078125
+        ],
+        [
+          357.18798828125,
+          51.0205078125
+        ],
+        [
+          357.18798828125,
+          60.73638916015625
+        ],
+        [
+          248.90625,
+          60.73638916015625
+        ]
+      ]
+    },
+    {
+      "title": "Fmtionalism",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          160.3125,
+          67.271484375
+        ],
+        [
+          205.26890563964844,
+          67.271484375
+        ],
+        [
+          205.26890563964844,
+          77.056396484375
+        ],
+        [
+          160.3125,
+          77.056396484375
+        ]
+      ]
+    },
+    {
+      "title": "Radical st~~~turalism",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          389.760009765625,
+          69.1611328125
+        ],
+        [
+          463.0282287597656,
+          69.1611328125
+        ],
+        [
+          463.0282287597656,
+          77.056396484375
+        ],
+        [
+          389.760009765625,
+          77.056396484375
+        ]
+      ]
+    },
+    {
+      "title": "Technology Architecture",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          259.44000244140625,
+          83.14453125
+        ],
+        [
+          344.8125,
+          83.14453125
+        ],
+        [
+          344.8125,
+          91.52667236328125
+        ],
+        [
+          259.44000244140625,
+          91.52667236328125
+        ]
+      ]
+    },
+    {
+      "title": "Kind of Information Flows",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          257.0625,
+          156.0849609375
+        ],
+        [
+          345.9375,
+          156.0849609375
+        ],
+        [
+          345.9375,
+          165.2066650390625
+        ],
+        [
+          257.0625,
+          165.2066650390625
+        ]
+      ]
+    },
+    {
+      "title": "Control of Users",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          273.106201171875,
+          219.955078125
+        ],
+        [
+          330.03094482421875,
+          219.955078125
+        ],
+        [
+          330.03094482421875,
+          229.28668212890625
+        ],
+        [
+          273.106201171875,
+          229.28668212890625
+        ]
+      ]
+    },
+    {
+      "title": "Control of Systems Development",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          243.0,
+          274.376953125
+        ],
+        [
+          360.0,
+          274.376953125
+        ],
+        [
+          360.0,
+          283.5266418457031
+        ],
+        [
+          243.0,
+          283.5266418457031
+        ]
+      ]
+    },
+    {
+      "title": "Access to Information",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          262.40625,
+          318.5947265625
+        ],
+        [
+          340.59375,
+          318.5947265625
+        ],
+        [
+          340.59375,
+          327.9266052246094
+        ],
+        [
+          262.40625,
+          327.9266052246094
+        ]
+      ]
+    },
+    {
+      "title": "Training",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          287.266845703125,
+          391.9130859375
+        ],
+        [
+          317.53125,
+          391.9130859375
+        ],
+        [
+          317.53125,
+          401.6065979003906
+        ],
+        [
+          287.266845703125,
+          401.6065979003906
+        ]
+      ]
+    },
+    {
+      "title": "Raison d'Etre",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          277.03125,
+          428.1943359375
+        ],
+        [
+          325.96875,
+          428.1943359375
+        ],
+        [
+          325.96875,
+          436.5087890625
+        ],
+        [
+          277.03125,
+          436.5087890625
+        ]
+      ]
+    },
+    {
+      "title": "Mixing of Influences",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          309.9375,
+          618.6708984375
+        ],
+        [
+          396.5625,
+          618.6708984375
+        ],
+        [
+          396.5625,
+          626.9853515625
+        ],
+        [
+          309.9375,
+          626.9853515625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE III. SAS Engine Maintenance System",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          198.5625,
+          51.7763671875
+        ],
+        [
+          351.1523132324219,
+          51.7763671875
+        ],
+        [
+          351.1523132324219,
+          61.52667236328125
+        ],
+        [
+          198.5625,
+          61.52667236328125
+        ]
+      ]
+    },
+    {
+      "title": "Functionalism",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          134.61782836914062,
+          68.783203125
+        ],
+        [
+          178.5814971923828,
+          68.783203125
+        ],
+        [
+          178.5814971923828,
+          77.36663818359375
+        ],
+        [
+          134.61782836914062,
+          77.36663818359375
+        ]
+      ]
+    },
+    {
+      "title": "social Relativism/Neehumanism",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          345.09375,
+          69.9169921875
+        ],
+        [
+          444.9983215332031,
+          69.9169921875
+        ],
+        [
+          444.9983215332031,
+          77.36663818359375
+        ],
+        [
+          345.09375,
+          77.36663818359375
+        ]
+      ]
+    },
+    {
+      "title": "Technology Architecture",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          232.3035888671875,
+          83.14453125
+        ],
+        [
+          316.40625,
+          83.14453125
+        ],
+        [
+          316.40625,
+          92.00665283203125
+        ],
+        [
+          232.3035888671875,
+          92.00665283203125
+        ]
+      ]
+    },
+    {
+      "title": "Kind of information Flows",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          230.86294555664062,
+          137.9443359375
+        ],
+        [
+          319.78125,
+          137.9443359375
+        ],
+        [
+          319.78125,
+          146.00665283203125
+        ],
+        [
+          230.86294555664062,
+          146.00665283203125
+        ]
+      ]
+    },
+    {
+      "title": "Control of Users",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          246.70285034179688,
+          190.0986328125
+        ],
+        [
+          303.75,
+          190.0986328125
+        ],
+        [
+          303.75,
+          198.806640625
+        ],
+        [
+          246.70285034179688,
+          198.806640625
+        ]
+      ]
+    },
+    {
+      "title": "Control of Systems Development",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          216.0,
+          234.6943359375
+        ],
+        [
+          333.0,
+          234.6943359375
+        ],
+        [
+          333.0,
+          243.20660400390625
+        ],
+        [
+          216.0,
+          243.20660400390625
+        ]
+      ]
+    },
+    {
+      "title": "Access to Information",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          236.53125,
+          288.3603515625
+        ],
+        [
+          312.46875,
+          288.3603515625
+        ],
+        [
+          312.46875,
+          296.2466125488281
+        ],
+        [
+          236.53125,
+          296.2466125488281
+        ]
+      ]
+    },
+    {
+      "title": "Error Handling",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          249.46875,
+          321.240234375
+        ],
+        [
+          299.53125,
+          321.240234375
+        ],
+        [
+          299.53125,
+          329.60662841796875
+        ],
+        [
+          249.46875,
+          329.60662841796875
+        ]
+      ]
+    },
+    {
+      "title": "Training",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          259.875,
+          375.662109375
+        ],
+        [
+          287.0645446777344,
+          375.662109375
+        ],
+        [
+          287.0645446777344,
+          383.60662841796875
+        ],
+        [
+          259.875,
+          383.60662841796875
+        ]
+      ]
+    },
+    {
+      "title": "Raison d'Etre",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          251.02099609375,
+          449.3583984375
+        ],
+        [
+          297.84375,
+          449.3583984375
+        ],
+        [
+          297.84375,
+          457.6728515625
+        ],
+        [
+          251.02099609375,
+          457.6728515625
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          279.84375,
+          670.0693359375
+        ],
+        [
+          345.65625,
+          670.0693359375
+        ],
+        [
+          345.65625,
+          680.1764526367188
+        ],
+        [
+          279.84375,
+          680.1764526367188
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          289.41650390625,
+          257.96044921875
+        ],
+        [
+          334.39544677734375,
+          257.96044921875
+        ],
+        [
+          334.39544677734375,
+          265.9362487792969
+        ],
+        [
+          289.41650390625,
+          265.9362487792969
+        ]
+      ]
+    },
+    {
+      "title": "Collected Algorithms from acm",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          151.7578125,
+          444.673828125
+        ],
+        [
+          406.5,
+          444.673828125
+        ],
+        [
+          406.5,
+          489.75
+        ],
+        [
+          151.7578125,
+          489.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          142
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          415
+        ],
+        [
+          "Line",
+          160
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          566
+        ],
+        [
+          "Line",
+          166
+        ],
+        [
+          "ListItem",
+          58
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S01-Four Paradigms of Information Systems Development"
+}

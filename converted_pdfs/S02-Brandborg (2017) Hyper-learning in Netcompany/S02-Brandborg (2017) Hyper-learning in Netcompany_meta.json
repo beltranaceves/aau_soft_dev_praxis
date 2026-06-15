@@ -1,0 +1,451 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Hyper-learning in Netcompany",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.692996978759766,
+          82.91937255859375
+        ],
+        [
+          344.8725891113281,
+          82.91937255859375
+        ],
+        [
+          344.8725891113281,
+          102.84466552734375
+        ],
+        [
+          56.692996978759766,
+          102.84466552734375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.455078125,
+          150.8203125
+        ],
+        [
+          103.46730041503906,
+          150.8203125
+        ],
+        [
+          103.46730041503906,
+          161.89227294921875
+        ],
+        [
+          62.455078125,
+          161.89227294921875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.345703125,
+          326.390625
+        ],
+        [
+          212.1965789794922,
+          326.390625
+        ],
+        [
+          212.1965789794922,
+          339.19781494140625
+        ],
+        [
+          141.345703125,
+          339.19781494140625
+        ]
+      ]
+    },
+    {
+      "title": "Hyper-Learning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          131.783203125,
+          676.0546112060547
+        ],
+        [
+          221.50381469726562,
+          676.0546112060547
+        ],
+        [
+          221.50381469726562,
+          690.29296875
+        ],
+        [
+          131.783203125,
+          690.29296875
+        ]
+      ]
+    },
+    {
+      "title": "Research Approach",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          120.7265625,
+          454.0078125
+        ],
+        [
+          233.56146240234375,
+          454.0078125
+        ],
+        [
+          233.56146240234375,
+          468.22882080078125
+        ],
+        [
+          120.7265625,
+          468.22882080078125
+        ]
+      ]
+    },
+    {
+      "title": "Analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          408.498046875,
+          429.6736145019531
+        ],
+        [
+          458.8323974609375,
+          429.6736145019531
+        ],
+        [
+          458.8323974609375,
+          442.40625
+        ],
+        [
+          408.498046875,
+          442.40625
+        ]
+      ]
+    },
+    {
+      "title": "Distributed Gate Keeping",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.76953125,
+          489.4957580566406
+        ],
+        [
+          433.0174560546875,
+          489.4957580566406
+        ],
+        [
+          433.0174560546875,
+          499.4583740234375
+        ],
+        [
+          313.76953125,
+          499.4583740234375
+        ]
+      ]
+    },
+    {
+      "title": "Brokering External Knowledge",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.693023681640625,
+          65.35546875
+        ],
+        [
+          201.48944091796875,
+          65.35546875
+        ],
+        [
+          201.48944091796875,
+          76.04425048828125
+        ],
+        [
+          56.693023681640625,
+          76.04425048828125
+        ]
+      ]
+    },
+    {
+      "title": "Simple Design Rules and Artifacts",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.1796875,
+          284.23828125
+        ],
+        [
+          219.1033172607422,
+          284.23828125
+        ],
+        [
+          219.1033172607422,
+          294.8663024902344
+        ],
+        [
+          56.1796875,
+          294.8663024902344
+        ]
+      ]
+    },
+    {
+      "title": "Building Peer Networks",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.58203125,
+          539.5917205810547
+        ],
+        [
+          168.02505493164062,
+          539.5917205810547
+        ],
+        [
+          168.02505493164062,
+          549.5543212890625
+        ],
+        [
+          55.58203125,
+          549.5543212890625
+        ]
+      ]
+    },
+    {
+      "title": "Discussion and Final Remarks",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          346.04296875,
+          228.55078125
+        ],
+        [
+          521.2572021484375,
+          228.55078125
+        ],
+        [
+          521.2572021484375,
+          242.599853515625
+        ],
+        [
+          346.04296875,
+          242.599853515625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          402.385986328125,
+          651.62109375
+        ],
+        [
+          466.7169189453125,
+          651.62109375
+        ],
+        [
+          466.7169189453125,
+          664.4008102416992
+        ],
+        [
+          402.385986328125,
+          664.4008102416992
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S02-Brandborg (2017) Hyper-learning in Netcompany"
+}

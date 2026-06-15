@@ -1,0 +1,21 @@
+## DISCUSSION OF "LEARNING ROUTINES AND DISTRUPTIVE TECHNOLOGICAL CHANGE" BY LYYTINEN, ROSE, & YOO (2010)
+
+- A. What is the paper's area of concern (and also for the theory that the authors develop)?
+- B. What is a "multi-site, theory-building case study" (p. 171)?
+  - i. How are cases selected?
+  - ii. What data is collected?
+  - iii. How is data collected?
+  - iv. How is data analyzed?
+- C. What does the following conceptualizations mean (exemplify)?
+  - i. "distributed gate-keeping"
+  - ii. "brokering external knowledge"
+  - iii. "use of simple design rules and artefacts"
+  - iv. "building peer networks"
+- D. Provide examples from your own experiences that may be described with the four conceptualizations.
+- E. Explain "parallel ambidexterity" as used in figure 1.
+  - i. Describe the individual parts of the figure.
+  - ii. What influences what in the figure?
+  - iii. What is the purpose of the framework?
+  - iv. Provide examples from your own experience of the five relationships between the four conceptualizations.
+- F. The paper describes hyper-learning in software development organizations during internet adoption. What contemporary technologies or innovations are software development organizations facing now that demand them to hyperlearn?
+- G. If we should design a system for supporting systems developers based on the results from the paper, what would the requirements be for such a system?

@@ -1,0 +1,678 @@
+{
+  "table_of_contents": [
+    {
+      "title": "THE PARTS AND PEOPLE OF AN ORGANIZATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.296875,
+          63.0
+        ],
+        [
+          327.0,
+          63.0
+        ],
+        [
+          327.0,
+          72.7734375
+        ],
+        [
+          89.296875,
+          72.7734375
+        ]
+      ]
+    },
+    {
+      "title": "THE ESSENCE OF ORGANIZATIONAL STRUCTURE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          128.25,
+          415.01953125
+        ],
+        [
+          310.5,
+          411.85546875
+        ],
+        [
+          310.5,
+          435.0
+        ],
+        [
+          129.0,
+          436.11328125
+        ]
+      ]
+    },
+    {
+      "title": "COORDINATING MECHANISMS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          397.5,
+          90.17578125
+        ],
+        [
+          531.5625,
+          88.06640625
+        ],
+        [
+          531.5625,
+          96.75
+        ],
+        [
+          398.25,
+          99.0
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 6\u20133\nThe Coordinating Mechanisms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          133.59375,
+          78.57421875
+        ],
+        [
+          243.75,
+          78.57421875
+        ],
+        [
+          243.75,
+          98.61328125
+        ],
+        [
+          133.59375,
+          98.61328125
+        ]
+      ]
+    },
+    {
+      "title": "DESIGN PARAMETERS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          371.25,
+          272.373046875
+        ],
+        [
+          465.8203125,
+          272.373046875
+        ],
+        [
+          465.8203125,
+          281.25
+        ],
+        [
+          371.25,
+          281.25
+        ]
+      ]
+    },
+    {
+      "title": "STRUCTURE IN CONTEXT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          125.25,
+          71.19140625
+        ],
+        [
+          253.125,
+          71.19140625
+        ],
+        [
+          253.125,
+          79.62890625
+        ],
+        [
+          125.25,
+          79.62890625
+        ]
+      ]
+    },
+    {
+      "title": "AGE AND SIZE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.5,
+          205.13671875
+        ],
+        [
+          114.2578125,
+          205.13671875
+        ],
+        [
+          114.2578125,
+          213.75
+        ],
+        [
+          49.5,
+          213.75
+        ]
+      ]
+    },
+    {
+      "title": "TECHNICAL SYSTEM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          369.0,
+          138.427734375
+        ],
+        [
+          456.0,
+          138.427734375
+        ],
+        [
+          456.0,
+          146.337890625
+        ],
+        [
+          369.0,
+          146.337890625
+        ]
+      ]
+    },
+    {
+      "title": "ENVIRONMENT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.2734375,
+          74.25
+        ],
+        [
+          118.5,
+          74.25
+        ],
+        [
+          118.5,
+          82.79296875
+        ],
+        [
+          50.2734375,
+          82.79296875
+        ]
+      ]
+    },
+    {
+      "title": "POWER",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          372.3046875,
+          166.5
+        ],
+        [
+          405.75,
+          166.5
+        ],
+        [
+          405.75,
+          175.078125
+        ],
+        [
+          372.3046875,
+          175.078125
+        ]
+      ]
+    },
+    {
+      "title": "BASIC TYPES OF ORGANIZATIONS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          425.25,
+          461.162109375
+        ],
+        [
+          596.25,
+          461.162109375
+        ],
+        [
+          597.0,
+          471.181640625
+        ],
+        [
+          426.0,
+          472.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          75
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          76
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S03-Mintzberg_p_98-115"
+}

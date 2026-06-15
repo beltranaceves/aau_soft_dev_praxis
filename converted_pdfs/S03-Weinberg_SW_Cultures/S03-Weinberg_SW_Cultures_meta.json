@@ -1,0 +1,363 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Pattern 0 Oblivious Culture",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.94455852156057,
+          659.109375
+        ],
+        [
+          92.93634496919917,
+          659.109375
+        ],
+        [
+          92.18685831622176,
+          813.0
+        ],
+        [
+          80.19507186858316,
+          813.0
+        ]
+      ]
+    },
+    {
+      "title": "Pattern 1 Variable Culture",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.19507186858316,
+          206.09765625
+        ],
+        [
+          92.18685831622176,
+          206.09765625
+        ],
+        [
+          93.68583162217658,
+          339.0
+        ],
+        [
+          80.94455852156057,
+          339.75
+        ]
+      ]
+    },
+    {
+      "title": "Pattern 2 Routine Culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          78.69609856262834,
+          686.3203125
+        ],
+        [
+          91.43737166324435,
+          686.3203125
+        ],
+        [
+          89.93839835728951,
+          823.5
+        ],
+        [
+          77.94661190965093,
+          823.5
+        ]
+      ]
+    },
+    {
+      "title": "Other names:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          110.17453798767967,
+          893.25
+        ],
+        [
+          122.16632443531827,
+          893.25
+        ],
+        [
+          122.16632443531827,
+          963.75
+        ],
+        [
+          110.17453798767967,
+          963.75
+        ]
+      ]
+    },
+    {
+      "title": "Pattern 3 Steering Culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          86.6162109375,
+          182.91796875
+        ],
+        [
+          100.4312114989733,
+          182.91796875
+        ],
+        [
+          98.93223819301848,
+          323.00390625
+        ],
+        [
+          86.19096509240246,
+          323.00390625
+        ]
+      ]
+    },
+    {
+      "title": "Other names:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          119.40917968749999,
+          388.5
+        ],
+        [
+          130.4106776180698,
+          389.25
+        ],
+        [
+          128.6767578125,
+          462.5859375
+        ],
+        [
+          116.91991786447637,
+          462.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Pattern 4 Anticipating Culture",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.94455852156057,
+          677.75390625
+        ],
+        [
+          94.435318275154,
+          677.75390625
+        ],
+        [
+          94.435318275154,
+          840.0
+        ],
+        [
+          80.94455852156057,
+          840.0
+        ]
+      ]
+    },
+    {
+      "title": "Other names:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          113.92197125256672,
+          898.5
+        ],
+        [
+          124.75585937499999,
+          898.5
+        ],
+        [
+          124.75585937499999,
+          969.0
+        ],
+        [
+          113.92197125256672,
+          969.0
+        ]
+      ]
+    },
+    {
+      "title": "Pattern 5 Congruent Culture",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          84.12109375,
+          182.4140625
+        ],
+        [
+          98.18275154004107,
+          182.4140625
+        ],
+        [
+          96.68377823408623,
+          333.5859375
+        ],
+        [
+          84.12109375,
+          333.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Other names:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          117.98339843749999,
+          394.5
+        ],
+        [
+          129.6611909650924,
+          395.25
+        ],
+        [
+          127.25097656249999,
+          466.6171875
+        ],
+        [
+          116.17043121149896,
+          466.6171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          97
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          56
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S03-Weinberg_SW_Cultures"
+}

@@ -1,0 +1,546 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Investigating Agile Management Fashions at Rohde & Schwartz",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.2400016784668,
+          78.920654296875
+        ],
+        [
+          557.6024780273438,
+          78.920654296875
+        ],
+        [
+          557.6024780273438,
+          97.453125
+        ],
+        [
+          54.2400016784668,
+          97.453125
+        ]
+      ]
+    },
+    {
+      "title": "Rune M\u00f8berg Jacobsen",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          251.61328125,
+          127.23046875
+        ],
+        [
+          357.4757385253906,
+          127.23046875
+        ],
+        [
+          357.4757385253906,
+          138.00933837890625
+        ],
+        [
+          251.61328125,
+          138.00933837890625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.294921875,
+          206.04931640625
+        ],
+        [
+          105.83184051513672,
+          206.04931640625
+        ],
+        [
+          105.83184051513672,
+          216.00933837890625
+        ],
+        [
+          52.294921875,
+          216.00933837890625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.490234375,
+          390.999267578125
+        ],
+        [
+          133.15211486816406,
+          390.999267578125
+        ],
+        [
+          133.15211486816406,
+          400.9592590332031
+        ],
+        [
+          53.490234375,
+          400.9592590332031
+        ]
+      ]
+    },
+    {
+      "title": "AGILE DEVELOPMENT AS A MANAGEMENT \nFASHION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.35546875,
+          513.5625
+        ],
+        [
+          527.8577270507812,
+          513.5625
+        ],
+        [
+          527.8577270507812,
+          536.5792541503906
+        ],
+        [
+          317.35546875,
+          536.5792541503906
+        ]
+      ]
+    },
+    {
+      "title": "Remove headers & page numbers in the footers from your final version",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.19140625,
+          54.52734375
+        ],
+        [
+          344.68267822265625,
+          54.52734375
+        ],
+        [
+          344.68267822265625,
+          65.1492919921875
+        ],
+        [
+          53.19140625,
+          65.1492919921875
+        ]
+      ]
+    },
+    {
+      "title": "METHOD",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.490234375,
+          487.65234375
+        ],
+        [
+          98.61083984375,
+          487.65234375
+        ],
+        [
+          98.61083984375,
+          498.8992614746094
+        ],
+        [
+          53.490234375,
+          498.8992614746094
+        ]
+      ]
+    },
+    {
+      "title": "FINDINGS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.953125,
+          264.039306640625
+        ],
+        [
+          366.5950012207031,
+          264.039306640625
+        ],
+        [
+          366.5950012207031,
+          273.99932861328125
+        ],
+        [
+          317.953125,
+          273.99932861328125
+        ]
+      ]
+    },
+    {
+      "title": "Norm of Progress",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.04998779296875,
+          540.24609375
+        ],
+        [
+          398.63671875,
+          540.24609375
+        ],
+        [
+          398.63671875,
+          551.3392639160156
+        ],
+        [
+          318.04998779296875,
+          551.3392639160156
+        ]
+      ]
+    },
+    {
+      "title": "Norm of rationality",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.7890625,
+          172.4765625
+        ],
+        [
+          143.4375,
+          172.4765625
+        ],
+        [
+          143.4375,
+          183.729248046875
+        ],
+        [
+          53.7890625,
+          183.729248046875
+        ]
+      ]
+    },
+    {
+      "title": "Socio-psychological forces",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.19140625,
+          441.24609375
+        ],
+        [
+          174.06419372558594,
+          441.24609375
+        ],
+        [
+          174.06419372558594,
+          452.4592590332031
+        ],
+        [
+          53.19140625,
+          452.4592590332031
+        ]
+      ]
+    },
+    {
+      "title": "Techno-economic forces",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.490234375,
+          619.1692657470703
+        ],
+        [
+          164.58790588378906,
+          619.1692657470703
+        ],
+        [
+          164.58790588378906,
+          629.19140625
+        ],
+        [
+          53.490234375,
+          629.19140625
+        ]
+      ]
+    },
+    {
+      "title": "Innovation devolution",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.953125,
+          261.03515625
+        ],
+        [
+          419.5469055175781,
+          261.03515625
+        ],
+        [
+          419.5469055175781,
+          271.59930419921875
+        ],
+        [
+          317.953125,
+          271.59930419921875
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          315.861328125,
+          518.58984375
+        ],
+        [
+          378.5968322753906,
+          518.58984375
+        ],
+        [
+          378.5968322753906,
+          529.6192626953125
+        ],
+        [
+          315.861328125,
+          529.6192626953125
+        ]
+      ]
+    },
+    {
+      "title": "Remove headers & page numbers in the footers from your final version",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.19140625,
+          54.9140625
+        ],
+        [
+          344.68267822265625,
+          54.9140625
+        ],
+        [
+          344.68267822265625,
+          65.1492919921875
+        ],
+        [
+          53.19140625,
+          65.1492919921875
+        ]
+      ]
+    },
+    {
+      "title": "Mindful tailoring",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.59375,
+          188.40924072265625
+        ],
+        [
+          132.62423706054688,
+          188.40924072265625
+        ],
+        [
+          132.62423706054688,
+          198.7734375
+        ],
+        [
+          52.59375,
+          198.7734375
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          397.93359375
+        ],
+        [
+          116.841796875,
+          397.93359375
+        ],
+        [
+          116.841796875,
+          408.2792663574219
+        ],
+        [
+          54.0,
+          408.2792663574219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "TableGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          191
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/S05-Jacobsen_2019_-_Investigating Agile Management Fashions at Rohde  Schwartz"
+}

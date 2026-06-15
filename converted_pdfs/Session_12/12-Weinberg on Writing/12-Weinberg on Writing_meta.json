@@ -1,0 +1,369 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Most Important\nWriting Lesson",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.04248046875,
+          23.98573975044563
+        ],
+        [
+          161.11460957178844,
+          23.98573975044563
+        ],
+        [
+          161.11460957178844,
+          254.09893048128342
+        ],
+        [
+          106.04248046875,
+          254.09893048128342
+        ]
+      ]
+    },
+    {
+      "title": "Writing Lesson Number One",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          194.83627204030228,
+          608.98583984375
+        ],
+        [
+          206.2744140625,
+          608.98583984375
+        ],
+        [
+          206.82619647355165,
+          769.13720703125
+        ],
+        [
+          195.8154296875,
+          769.13720703125
+        ]
+      ]
+    },
+    {
+      "title": "Never attempt to write something you don't care about.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          257.7833753148615,
+          487.9598930481283
+        ],
+        [
+          269.89990234375,
+          487.9598930481283
+        ],
+        [
+          269.89990234375,
+          751.0534759358288
+        ],
+        [
+          257.7833753148615,
+          751.0534759358288
+        ]
+      ]
+    },
+    {
+      "title": "First Exercise",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          426.78466796875,
+          703.43408203125
+        ],
+        [
+          436.88287153652396,
+          703.43408203125
+        ],
+        [
+          436.88287153652396,
+          766.7941176470588
+        ],
+        [
+          426.78466796875,
+          766.7941176470588
+        ]
+      ]
+    },
+    {
+      "title": "Never attempt to write something you don't care about.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          131.88916876574308,
+          485.71122994652404
+        ],
+        [
+          143.87909319899245,
+          485.71122994652404
+        ],
+        [
+          145.37783375314862,
+          748.0552584670231
+        ],
+        [
+          132.77099609375,
+          748.0552584670231
+        ]
+      ]
+    },
+    {
+      "title": "Second Exercise",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          211.50390625,
+          688.8404634581104
+        ],
+        [
+          223.31234256926953,
+          688.8404634581104
+        ],
+        [
+          223.31234256926953,
+          765.2950089126559
+        ],
+        [
+          211.50390625,
+          765.2950089126559
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 2",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          63.3349609375,
+          29.232620320855613
+        ],
+        [
+          87.7392578125,
+          29.98217468805704
+        ],
+        [
+          87.7392578125,
+          146.60009765625
+        ],
+        [
+          63.3349609375,
+          146.60009765625
+        ]
+      ]
+    },
+    {
+      "title": "The Fieldstone Method in Brief",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          113.3056640625,
+          24.735294117647058
+        ],
+        [
+          163.36272040302268,
+          26.23440285204991
+        ],
+        [
+          160.36523929471034,
+          310.85791015625
+        ],
+        [
+          112.40554156171285,
+          310.85791015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Span",
+          15
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          89
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Span",
+          16
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/12-Weinberg on Writing"
+}
